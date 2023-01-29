@@ -13,6 +13,4 @@
 
 ## Imagens
 
-![print 1](./images/print1.bmp)
-![print 2](./images/print2.bmp)
-![print 3](./images/print3.bmp)
+![print 1](/screenshot.bmp)
